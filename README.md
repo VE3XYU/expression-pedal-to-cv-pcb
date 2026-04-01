@@ -6,4 +6,7 @@ This design is meant to take the input of a standard expression pedal (typical t
 
 So this will take a 9V power input, your regular expression pedal input, and output CV, from 0 to 5V, swept by the movement of your pedal.
 
-BoM coming soon.
+## Coming soon
+
+Full BoM
+3D Printable Enclosure
