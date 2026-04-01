@@ -11,3 +11,5 @@ So this will take a 9V power input, your regular expression pedal input, and out
 Full BoM
 
 3D Printable Enclosure
+
+Updates to board silk-screening - I didn't realize those capacitor values are hard to find as alumin(i)um electrolytics
