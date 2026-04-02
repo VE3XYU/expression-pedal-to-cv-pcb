@@ -32,8 +32,8 @@ Updates to board silk-screening - I didn't realize those capacitor values are ha
 
 ## Notes
 
-- **C1** replaces an electrolytic footprint with a WIMA MKS02 film capacitor. Body dimensions: 4.60 × 3.80mm, 2.50mm lead pitch — compatible with the PCB's 2.50mm radial pads.
-- **C2** replaces an electrolytic footprint with a KEMET X7R ceramic capacitor. Lead pitch is 2.54mm, which is compatible with 2.50mm pads in through-hole assembly.
+- **C1** replaces an electrolytic footprint with a WIMA MKS02 film capacitor. Body dimensions: 4.60 × 3.80mm, 2.50mm lead pitch — compatible with the PCB's 2.50mm radial pads. Polarity doesn't matter with this replacement.
+- **C2** replaces an electrolytic footprint with a KEMET X7R ceramic capacitor. Lead pitch is 2.54mm, which is compatible with 2.50mm pads in through-hole assembly. Polarity doesn't matter for this replacement either.
 - **J1** is used to connect the DC power input. Don't forget that guitar pedal connectors are center negative! You may buy an already wired jack on Amazon and you'll need to remember that the red and black wires may not be + and - respectively.
 - **J2–J3** are generic 2.54mm male pin headers. I did not intend for the 6.35mm (1/4") jacks to be mounted directly to the board, so solder 22AWG stranded wire to connect the jacks.
 - All DigiKey stock levels confirmed in-stock as of 2026-04-01.
